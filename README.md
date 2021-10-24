@@ -8,9 +8,9 @@
 #### 🍳 My sweet WorkSpace: Lumberyard, Epic games, flaregames.com 🍳
 ------------------------------------------------------------
 ##### 🍪 if you have a awesome idea in game development, you can contact me, I will hire you soon!(mailto:cloud.locki9020@gmail.com)
-##### Great Salary: base=160.000/yr grant:80(for a year experience) bonus:35 (for every project)
+##### Great Salary: base=160.000$/year grant:80$(for a year experience) bonus:35$ (for every project)
 
-###### I love Lua 🍕 (best programming language for game development ever!)
+###### I love Lua,Js 🍕 (best programming language for game development ever!)
 
 
 
