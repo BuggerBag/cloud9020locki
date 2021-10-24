@@ -6,6 +6,7 @@
 ##### *If you digest this sentence, you will get the meaning of security
 
 #### My sweet WorkSpace: @aws, @Epic, flaregames.com
+### if you have a awesome idea in game, you can contact me, I will hire you soon!
 
 
 
