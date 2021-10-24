@@ -5,7 +5,7 @@
 #### [The enemy of security is complexity, and the enemy of complexity is simplicity] 
 ##### *If you digest this sentence, you will get the meaning of security
 
-#### 🍳 My sweet WorkSpace: Lumberyard,epic games, flaregames.com 🍳
+#### 🍳 My sweet WorkSpace: Lumberyard, Epic games, flaregames.com 🍳
 ##### 🍪 if you have a awesome idea in game development, you can contact me, I will hire you soon!(mailto:cloud.locki9020@gmail.com)
 ##### Great Salary: base=160.000/yr grant:80(for a year experience) bonus:35 (for every project)
 
