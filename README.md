@@ -18,7 +18,7 @@
 ##### I need Sponser for my mooni robot (this robot want to hire some coders!/email me soon!)
 > https://codepen.io/cloudi/pen/LYjjgbN <br>
 ~ Mooni personal assistance (early release!)
-<img src="https://splianel.sirv.com/mooni.png" width="70%" height="70%" alt="" />
+<img src="https://splianel.sirv.com/mooni.png" width="60%" height="60%" alt="mooni robot" />
 
 
 
