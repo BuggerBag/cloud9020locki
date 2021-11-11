@@ -1,3 +1,5 @@
+<img src="https://splianel.sirv.com/header_.png" width="90%" height="90%" alt="" />
+
 ### Hi there ʕ •ᴥ•ʔ
 #### cloud9020locki is 🎩whitehat pentester of BlackArch Linux & Game Developer
 #### At now I'm working on ethereum smart contract Secure development {{:)
@@ -11,8 +13,6 @@
 ------------------------------------------------------------
 ##### 🍪 if you have a awesome idea in game development, you can contact me, I will hire you soon!(mailto:cloud.locki9020@gmail.com)
 ##### Great Salary: base=160.000$/year grant:80$(for a year experience) bonus:35$ (for every project)
-
-<img src="https://splianel.sirv.com/header_.png" width="90%" height="90%" alt="" />
 
 ###### I love Lua, Js 🍕 (best programming language for game development ever!)
 ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
