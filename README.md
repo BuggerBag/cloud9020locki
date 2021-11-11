@@ -13,7 +13,7 @@
 ##### Great Salary: base=160.000$/year grant:80$(for a year experience) bonus:35$ (for every project)
 
 ###### I love Lua, Js 🍕 (best programming language for game development ever!)
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
 ------------------------------------------------------------
 #### I need Sponser for my mooni robot (this robot want to hire some coders!/email me soon!)
 > https://codepen.io/cloudi/pen/LYjjgbN <br>
